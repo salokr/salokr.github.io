@@ -16,7 +16,7 @@
     <div class="author"><strong>Saurabh Srivastava</strong>, Gaurav Singh, Shou Matsumoto, Ali Raz, Paulo Costa, Joshua Poore, Ziyu Yao</div>
     <div class="periodical"><em><strong>ArXiv preprint</strong>, 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/2305.13469.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2305.13469.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/salokr/Email-Event-Extraction" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
@@ -28,7 +28,7 @@
     <div class="author">Hao Yan, <strong>Saurabh Srivastava</strong>, Yintao Tai, Sida I Wang, Wen-tau Yih, Ziyu Yao</div>
     <div class="periodical"><em><strong>ACL</strong>, 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/2305.08195.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2305.08195.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hyan5/Learning_to_Simulate_NL_Feedback" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
