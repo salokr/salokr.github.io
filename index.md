@@ -25,7 +25,7 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **[May 2023]** Our paper [Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing](https://arxiv.org/pdf/2305.08195.pdf)  is accepted to ACL 2023.
 - **[Apr. 2023]** George Mason organized [MASC-SLL 2023](https://www.mascsll.org/), an annual NLP event in the Mid-Atlantic area!
 - **[Jul. 2022]** I will be attending [NAACL'22](https://2022.naacl.org/) in person!
-- **[Apr. 2021]** I will be attending [EACL'21 in](https://2021.eacl.org/) virtually!
+- **[Apr. 2021]** I will be attending [EACL'21](https://2021.eacl.org/) virtually!
 - **[Jul. 2020]** Attended [IJCNN'20 in](https://ieeexplore.ieee.org/xpl/conhome/9200848/proceeding) virtually!
 - **[Jul. 2019]** Attended [ACL'19 in](https://acl2019.org/EN/index.xhtml.html) person!
 - **[Jul. 2019]** Attended [IJCNN'19 in](https://ieeexplore.ieee.org/xpl/conhome/8840768/proceeding) person!
