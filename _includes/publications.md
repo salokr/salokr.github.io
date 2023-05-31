@@ -114,9 +114,7 @@
     </div>
   </div>
 </li>
-  
-  
-    <li>
+  <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://aclanthology.org/W17-7538.pdf">Experiments with Domain Dependent Dialogue Act Classification using Open-Domain Dialogue Corpora</a></div>
     <div class="author"><strong>Swapnil Hingmire, Apoorv Shrivastava, Girish Palshikar, Saurabh Srivastava</strong></div>
