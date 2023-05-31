@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://2023.aclweb.org/"><autocolor>ACL 2023 - The 61st Annual Meeting of the Association for Computational Linguistics</autocolor></a></li>
-  <li><a href="https://2023.aclweb.org/"><autocolor>MASC-SLL 2023 - 10th Mid-Atlantic Student Colloquium on Speech, Language and Learning</autocolor></a></li>
+  <li><a href="https://www.mascsll.org/"><autocolor>MASC-SLL 2023 - 10th Mid-Atlantic Student Colloquium on Speech, Language and Learning</autocolor></a></li>
   <li><a href="https://suki-workshop.github.io/"><autocolor>SUKI @ North American Chapter of the Association for Computational Linguistics (NAACL) 2022</autocolor></a></li>
   <li><a href="https://www.iitp.ac.in/~ai-nlp-ml/icon2020/"><autocolor>International Conference on Natural Language Processing (ICON) 2020</autocolor></a></li>
 </ul>
