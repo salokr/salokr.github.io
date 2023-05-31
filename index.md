@@ -32,6 +32,8 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/experience.md %}
+
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/honors.md %}
