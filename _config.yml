@@ -21,8 +21,8 @@ twitter: https://twitter.com/salokr_deep
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/ss.png
-favicon: ./assets/img/ss.png
-favicon_dark: ./assets/img/ss.png
+favicon: ./assets/img/gmu.png
+favicon_dark: ./assets/img/gmu.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
