@@ -18,5 +18,5 @@
 <h4 style="margin:0 10px 0;">Organizing Committee</h4>
 
 <ul style="margin:0 0 20px;">
- <li><a href="https://2023.aclweb.org/"><autocolor>MASC-SLL 2023 - 10th Mid-Atlantic Student Colloquium on Speech, Language and Learning</autocolor></a></li>
+ <li><a href="https://www.mascsll.org/"><autocolor>MASC-SLL 2023 - 10th Mid-Atlantic Student Colloquium on Speech, Language and Learning</autocolor></a></li>
 </ul>
