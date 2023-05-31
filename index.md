@@ -23,6 +23,7 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **[Jun. 2023]** I will be interning Deloitte this summer!
 - **[May 2023]** Check out our new preprint [MAILEX: Email Event and Argument Extraction](https://arxiv.org/abs/2305.13469).
 - **[May 2023]** Our paper [Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing](https://arxiv.org/pdf/2305.08195.pdf)  is accepted to ACL 2023.
+- **[Apr. 2023]** Our team won the Machine Learning Hackathon (along with Best Use of CockroachDB serverless)  organized by DevPost at Univerity Of Maryland, College Park. [Project Page](https://devpost.com/software/bittales), [Code](https://github.com/janitbidhan/bittales).
 - **[Apr. 2023]** George Mason organized [MASC-SLL 2023](https://www.mascsll.org/), an annual NLP event in the Mid-Atlantic area!
 - **[Jul. 2022]** I will be attending [NAACL'22](https://2022.naacl.org/) in person!
 - **[Apr. 2021]** I will be attending [EACL'21](https://2021.eacl.org/) virtually!
