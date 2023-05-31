@@ -57,7 +57,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://aclanthology.org/2020.figlang-1.14/">A novel hierarchical BERT architecture for sarcasm detection</a></div>
     <div class="author">Himani Srivastava, Vaibhav Varshney, Surabhi Kumari, <strong>Saurabh Srivastava</strong></div>
-    <div class="periodical"><em><strong>ACL preprint</strong>, 2020.</em></div>
+    <div class="periodical"><em><strong>ACL FigLang workshop</strong>, 2020.</em></div>
     <div class="links">
       <a href="https://aclanthology.org/2020.figlang-1.14/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -65,62 +65,76 @@
   </li>
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.13469.pdf">MAILEX: Email Event and Argument Extraction</a></div>
-    <div class="author"><strong>Saurabh Srivastava</strong>, Gaurav Singh, Shou Matsumoto, Ali Raz, Paulo Costa, Joshua Poore, Ziyu Yao</div>
-    <div class="periodical"><em><strong>ArXiv preprint</strong>, 2023.</em></div>
+    <div class="title"><a href="https://ceur-ws.org/Vol-2666/KDD_Converse20_paper_6.pdf">Improved Question Answering using Domain Prediction</a></div>
+    <div class="author">Himani Srivastava, Prerna Khurana, <strong>Saurabh Srivastava, Vaibhav Varshney, Lovekesh Vig, Puneet Agarwal, Gautam Shroff</strong>,</div>
+    <div class="periodical"><em><strong>KDD Converse</strong>, 2020.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2305.13469.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/salokr/Email-Event-Extraction" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ceur-ws.org/Vol-2666/KDD_Converse20_paper_6.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
   </li>
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.13469.pdf">MAILEX: Email Event and Argument Extraction</a></div>
-    <div class="author"><strong>Saurabh Srivastava</strong>, Gaurav Singh, Shou Matsumoto, Ali Raz, Paulo Costa, Joshua Poore, Ziyu Yao</div>
-    <div class="periodical"><em><strong>ArXiv preprint</strong>, 2023.</em></div>
+    <div class="title"><a href="https://aclanthology.org/W19-3517/">Detecting aggression and toxicity using a multi dimension capsule network</a></div>
+    <div class="author"><strong>Saurabh Srivastava</strong>, Prerna Khurana</div>
+    <div class="periodical"><em><strong>ACL Workshop</strong>, 2019.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2305.13469.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/salokr/Email-Event-Extraction" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://aclanthology.org/W19-3517/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
   </li>
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.13469.pdf">MAILEX: Email Event and Argument Extraction</a></div>
-    <div class="author"><strong>Saurabh Srivastava</strong>, Gaurav Singh, Shou Matsumoto, Ali Raz, Paulo Costa, Joshua Poore, Ziyu Yao</div>
-    <div class="periodical"><em><strong>ArXiv preprint</strong>, 2023.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8851943/">Exploring machine learning and deep learning frameworks for task-oriented dialogue act classification</a></div>
+    <div class="author">Tulika Saha, <strong>Saurabh Srivastava</strong>, Mauajama Firdaus, Sriparna Saha, Asif Ekbal, Pushpak Bhattacharyya</div>
+    <div class="periodical"><em><strong>IJCNN</strong>, 2019.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2305.13469.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/salokr/Email-Event-Extraction" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8851943/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
   </li>
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.13469.pdf">MAILEX: Email Event and Argument Extraction</a></div>
-    <div class="author"><strong>Saurabh Srivastava</strong>, Gaurav Singh, Shou Matsumoto, Ali Raz, Paulo Costa, Joshua Poore, Ziyu Yao</div>
-    <div class="periodical"><em><strong>ArXiv preprint</strong>, 2023.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8852016/">Hierarchical capsule based neural network architecture for sequence labeling</a></div>
+    <div class="author"><strong>Saurabh Srivastava</strong>, Puneet Agarwal, Gautam Shroff, Lovekesh Vig</div>
+    <div class="periodical"><em><strong>IJCNN</strong>, 2019.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2305.13469.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/salokr/Email-Event-Extraction" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8852016/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
   </li>
+  
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.13469.pdf">MAILEX: Email Event and Argument Extraction</a></div>
-    <div class="author"><strong>Saurabh Srivastava</strong>, Gaurav Singh, Shou Matsumoto, Ali Raz, Paulo Costa, Joshua Poore, Ziyu Yao</div>
-    <div class="periodical"><em><strong>ArXiv preprint</strong>, 2023.</em></div>
+    <div class="title"><a href="https://aclanthology.org/W18-4412/">Identifying aggression and toxicity in comments using capsule network</a></div>
+    <div class="author"><strong>Saurabh Srivastava</strong>,Prerna Khurana, Vartika Tewari</div>
+    <div class="periodical"><em><strong>ACL TRAC workshop</strong>, 2018.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2305.13469.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/salokr/Email-Event-Extraction" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://aclanthology.org/W18-4412/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
   
 </div>
 </li>
   
+  
+    <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://aclanthology.org/W17-7538.pdf">
+Saurabh Srivastava
+[PDF] from aclanthology.org
+Experiments with Domain Dependent Dialogue Act Classification using Open-Domain Dialogue Corpora</a></div>
+    <div class="author"><strong>Swapnil Hingmire, Apoorv Shrivastava, Girish Palshikar, Saurabh Srivastava</strong></div>
+    <div class="periodical"><em><strong>ACL TRAC workshop</strong>, 2018.</em></div>
+    <div class="links">
+      <a href="https://aclanthology.org/W17-7538.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+  
+</div>
+</li>
+
+
 <br>
 
 </ol>
