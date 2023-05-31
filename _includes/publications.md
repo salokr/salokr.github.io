@@ -120,10 +120,7 @@
   
     <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://aclanthology.org/W17-7538.pdf">
-Saurabh Srivastava
-[PDF] from aclanthology.org
-Experiments with Domain Dependent Dialogue Act Classification using Open-Domain Dialogue Corpora</a></div>
+    <div class="title"><a href="https://aclanthology.org/W17-7538.pdf">Experiments with Domain Dependent Dialogue Act Classification using Open-Domain Dialogue Corpora</a></div>
     <div class="author"><strong>Swapnil Hingmire, Apoorv Shrivastava, Girish Palshikar, Saurabh Srivastava</strong></div>
     <div class="periodical"><em><strong>ACL TRAC workshop</strong>, 2018.</em></div>
     <div class="links">
