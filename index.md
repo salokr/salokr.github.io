@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Hi there!
-I am a second-year PhD student in the Natural Language Processing group at George Mason University, where I have the privilege of being advised by Prof. [Ziyu Yao](https://ziyuyao.org/). 
+I am a second-year PhD student in the Natural Language Processing group at George Mason University; advised by Dr. [Ziyu Yao](https://ziyuyao.org/). 
 
 My research revolves around the field of Information Extraction, where I delve into extracting event-specific information from a wide array of sources, including emails, sentences, and documents. My ultimate goal is to contribute to the development of a versatile machine learning system capable of retrieving event-specific details from unstructured text and presenting them in a structured format, facilitating seamless further processing.
 
