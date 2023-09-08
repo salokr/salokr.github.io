@@ -17,10 +17,10 @@
   <li><a href="https://www.iitp.ac.in/~ai-nlp-ml/icon2020/"><autocolor>International Conference on Natural Language Processing (ICON) 2020</autocolor></a></li>
 </ul>
 
-<-- <h4 style="margin:0 10px 0;">Secondary Reviewer</h4>
+<h4 style="margin:0 10px 0;">Secondary Reviewer</h4>
 <li><a href="https://nips.cc/"><autocolor>NeurIPS 2023 - Thirty-seventh Conference on Neural Information Processing Systems</autocolor></a></li>
 <ul style="margin:0 0 20px;">
   
-</ul> -->
+</ul>
 
 
