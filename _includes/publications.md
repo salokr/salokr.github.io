@@ -52,17 +52,6 @@
   </div>
   </li>
 
-
-<li>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Event Extraction on Email Conversations</div>
-    <div class="periodical"><em><strong>MASC-SLL</strong>, 2023</em></div>
-    <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-  </li>
-
   
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
