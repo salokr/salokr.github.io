@@ -15,7 +15,7 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 
 ## Research Interests
 
-- **Natural Language Processing:** Event Extraction, Semantic Parsing, Question-Answering
+- **Natural Language Processing:** Event Extraction, Generative AI, Prompt Engineering, Semantic Parsing, Question-Answering
 - **Machine Learning:** Continual Learning
 
 ## News
