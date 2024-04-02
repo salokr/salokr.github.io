@@ -5,13 +5,15 @@ layout: homepage
 ## About Me
 
 Hi there!
-I am a second-year PhD student in the Natural Language Processing group at George Mason University; advised by Dr. [Ziyu Yao](https://ziyuyao.org/). 
+I am a third-year PhD candidate in the Natural Language Processing group at George Mason University; advised by Dr. [Ziyu Yao](https://ziyuyao.org/). 
 
-My research revolves around the field of Information Extraction, where I delve into extracting event-specific information from a wide array of sources, including emails, sentences, and documents. My ultimate goal is to contribute to the development of a versatile machine learning system capable of retrieving event-specific details from unstructured text and presenting them in a structured format, facilitating seamless further processing.
+My research revolves around the field of Information Extraction and Generative AI, where I delve into extracting event-specific information from a wide array of sources, including emails, sentences, and documents. My ultimate goal is to contribute to the development of a versatile machine learning system capable of retrieving event-specific details from unstructured text and presenting them in a structured format, facilitating seamless further processing.
+
+Recently, I have also focused on Prompt Optimization for LLMs to elicit correct zero-shot responses from both Open-Source and API-based LLMs. Please check the list of publications for more details.
 
 Prior to my journey at GMU, I earned a master's degree in Computer Science and Engineering from the Indian Institute of Technology - Patna. Additionally, I obtained a bachelor's degree in Computer Science and Engineering from Uttar Pradesh Technical University. I have also served as an NLP researcher at Tata Research from 2017-2021.
 
-In my free time, I make music for violin and piano. I enjoy the outdoors, particularly badminton and mountains.
+In my free time, I make music for violin and piano. I enjoy the outdoors, particularly cricket, badminton and mountains.
 
 ## Research Interests
 
@@ -19,6 +21,8 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **Machine Learning:** Continual Learning
 
 ## News
+- **[May. 2024]** I will be interning at Amazon this summer in Seattle as Applied Research Scientist Intern. Looking forward to elicit safe responses from LLMs.
+- **[Apr. 2024]** I successfully passed my comprehensive exam. Thanks to all the committee members and my research advisor Prof. Yao for fruitful discussion.
 - **[Mar. 2024]** Check out our new preprint on [Prompt optimization for zero-shot LLMs ](https://arxiv.org/pdf/2310.02107.pdf)
 - **[Oct. 2023]** Our paper [MAILEX: Email Event and Argument Extraction](https://arxiv.org/abs/2305.13469) has been accepted at EMNLP 2023.
 - **[Jun. 2023]** I will be interning Deloitte this summer!
