@@ -22,7 +22,7 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 
 ## News
 - **[May. 2024]** I will be interning at Amazon this summer in Seattle as Applied Research Science Intern. Looking forward to elicit safe responses from LLMs.
-- **[Apr. 2024]** I successfully passed my comprehensive exam. Thanks to all the committee members and my research advisor Prof. Yao for fruitful discussion.
+- **[Apr. 2024]** I successfully passed my comprehensive exam. Thanks to all the committee members for the fruitful discussion.
 - **[Mar. 2024]** Check out our new preprint on [Prompt optimization for zero-shot LLMs ](https://arxiv.org/pdf/2310.02107.pdf)
 - **[Oct. 2023]** Our paper [MAILEX: Email Event and Argument Extraction](https://arxiv.org/abs/2305.13469) has been accepted at EMNLP 2023.
 - **[Jun. 2023]** I will be interning Deloitte this summer!
