@@ -21,6 +21,8 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **Machine Learning:** Continual Learning
 
 ## News
+- **[Aug. 2024]** Successfully finished my Applied Science internship at Amazon with the final model deployed in production to catch text obfuscation by malicious sellers 🎉. Thanks to my manager Xiaonan and mentor Yuanzhe for help and support.
+- **[Jul. 2024]** I will be attending ACL 2024 in person.
 - **[May. 2024]** Our paper [Instances Need More Care: Rewriting Prompts for Instances with LLMs in the Loop Yields Better Zero-Shot Performance
 ](https://arxiv.org/abs/2310.02107) has been accepted at ACL Findings 2024.
 - **[May. 2024]** I will be interning at Amazon this summer in Seattle as an Applied Research Science Intern. Looking forward to eliciting safe responses from LLMs.
