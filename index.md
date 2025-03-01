@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Hi there!
-I am a third-year PhD candidate in the Natural Language Processing group at George Mason University; advised by Dr. [Ziyu Yao](https://ziyuyao.org/). 
+I am a fourth-year PhD student in the Natural Language Processing group at George Mason University; advised by Dr. [Ziyu Yao](https://ziyuyao.org/). 
 
 My research revolves around the field of Information Extraction and Generative AI, where I delve into extracting event-specific information from a wide array of sources, including emails, sentences, and documents. My ultimate goal is to contribute to the development of a versatile machine learning system capable of retrieving event-specific details from unstructured text and presenting them in a structured format, facilitating seamless further processing.
 
@@ -13,7 +13,7 @@ Recently, I have also focused on Prompt Optimization for LLMs to elicit correct 
 
 Prior to my journey at GMU, I earned a master's degree in Computer Science and Engineering from the Indian Institute of Technology - Patna. Additionally, I obtained a bachelor's degree in Computer Science and Engineering from Uttar Pradesh Technical University. I have also served as an NLP researcher at Tata Research from 2017-2021.
 
-In my free time, I make music for violin and piano. I enjoy the outdoors, particularly cricket, badminton and mountains.
+In my free time, I make music for violin and piano. I enjoy the outdoors, particularly cricket, badminton, and mountains.
 
 ## Research Interests
 
@@ -21,6 +21,8 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **Machine Learning:** Continual Learning
 
 ## News
+- **[Feb. 2025]** Check out our new preprint on instruction tuning LLMs (LLaMA family) for EE with code prompts.[MAILEX: Email Event and Argument Extraction](https://arxiv.org/abs/2502.16377).
+- **[Sep. 2024]** I will intern at Adobe with Yunyao Li next summer. So excited to work with one of the distinguished ACL fellows. Thank you to other offers from Apple, Microsoft, Amazon, and Salesforce 🙏. 
 - **[Aug. 2024]** Successfully finished my Applied Science internship at Amazon with the final model deployed in production to catch text obfuscation by malicious sellers 🎉. Thanks to my manager Xiaonan and mentor Yuanzhe for help and support.
 - **[Jul. 2024]** I will be attending ACL 2024 in person.
 - **[May. 2024]** Our paper [Instances Need More Care: Rewriting Prompts for Instances with LLMs in the Loop Yields Better Zero-Shot Performance
