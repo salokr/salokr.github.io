@@ -21,7 +21,7 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **Machine Learning:** Continual Learning
 
 ## News
-- **[Feb. 2025]** Check out our new preprint on instruction tuning LLMs (LLaMA family) for EE with code prompts.[MAILEX: Email Event and Argument Extraction](https://arxiv.org/abs/2502.16377).
+- **[Feb. 2025]** Check out our new preprint on instruction tuning LLMs (LLaMA family) for EE with code prompts.[Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines](https://arxiv.org/abs/2502.16377).
 - **[Sep. 2024]** I will intern at Adobe with Yunyao Li next summer. So excited to work with one of the distinguished ACM fellows. Thank you to other offers from Apple, Microsoft, Amazon, and Salesforce 🙏. 
 - **[Aug. 2024]** Successfully finished my Applied Science internship at Amazon with the final model deployed in production to catch text obfuscation by malicious sellers 🎉. Thanks to my manager Xiaonan and mentor Yuanzhe for help and support.
 - **[Jul. 2024]** I will be attending ACL 2024 in person.
