@@ -39,7 +39,7 @@
     <div class="author"><strong>Saurabh Srivastava</strong>, Yuanzhe Li</div>
     <div class="periodical"><em><strong>AMLC</strong>, 2024</em></div>
     <div class="links">
-      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF (*Work Done During Internship At Amazon)</a>
       <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
