@@ -26,7 +26,25 @@
   </div>
   </li>
 
+  <li>
+  <div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/amazon.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AMLC</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="#">UnNERth - Unveil NER through Text Deobfuscation</a></div>
+    <div class="author"><strong>Saurabh Srivastava</strong>, Yuanzhe Li</div>
+    <div class="periodical"><em><strong>AMLC</strong>, 2024</em></div>
+    <div class="links">
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+  </div>
+  </li>
 
 <li>
   <div class="pub-row">
@@ -48,6 +66,7 @@
   </div>
   </div>
   </li>
+  
 <li>
 <div class="pub-row">
 
