@@ -5,6 +5,32 @@
 
 
 
+
+
+
+<li>
+  <div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/colm.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href=#>Revisiting Prompt Optimization with Large Reasoning Models---A Case Study on Event Extraction
+</a></div>
+    <div class="author"><strong>Saurabh Srivastava</strong>, Ziyu Yao</div>
+    <div class="periodical"><em><strong>ArXiv</strong>, 2025.</em></div>
+    <div class="links">
+      <a href=# class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href=# class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+  </div>
+  </li>
+
+
+
 <li>
   <div class="pub-row">
 
@@ -25,6 +51,46 @@
   </div>
   </div>
   </li>
+
+
+
+
+
+<li>
+  <div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cvpr_w.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR-W</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href=#>Compositional Image-Text Matching and Retrieval by Grounding Entities
+</a></div>
+    <div class="author">Madhukar Reddy, <strong>Saurabh Srivastava</strong>, Jana Košecká</div>
+    <div class="periodical"><em><strong>CVPR-W</strong>, 2025.</em></div>
+    <div class="links">
+      <a href=# class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href=# class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+  </div>
+  </li>
+
+
+  <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href=#>Compositional Image-Text Matching and Retrieval by Grounding Entities</a></div>
+    <div class="author">Abhishek Dey, <strong>Saurabh Srivastava</strong>, Gaurav Singh, Robert G. Pettit</div>
+    <div class="periodical"><em><strong>ISORC</strong>, 2025</em></div>
+    <div class="links">
+      <a href=# class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+  </li>
+
+
+
 
   <li>
   <div class="pub-row">
