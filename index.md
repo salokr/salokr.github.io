@@ -43,7 +43,7 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **[Apr. 2021]** I will be attending [EACL'21](https://2021.eacl.org/) virtually!
 - **[Jul. 2020]** Attended [IJCNN'20](https://ieeexplore.ieee.org/xpl/conhome/9200848/proceeding) virtually!
 - **[Jul. 2019]** Attended [ACL'19 in](https://acl2019.org/EN/index.xhtml.html) person!
-- **[Jul. 2019]** Attended [IJCNN'19 in](https://ieeexplore.iee
+- **[Jul. 2019]** Attended [IJCNN'19 in]([https://ieeexplore.iee](https://ieeexplore.ieee.org/xpl/conhome/8840768/proceeding)
 
 
 {% include_relative _includes/publications.md %}
