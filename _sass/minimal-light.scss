@@ -10,6 +10,24 @@ body {
   margin:0
 }
 
+.news-container {
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 10px;
+  margin-bottom: 20px;
+  border-left: 3px solid #eee;
+  padding-left: 10px;
+}
+
+.news-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-container::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
