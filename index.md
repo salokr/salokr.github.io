@@ -21,12 +21,14 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **Machine Learning:** Continual Learning
 
 ## News
-- **[Feb. 2025]** Check out our new preprint on instruction tuning LLMs (LLaMA family) for EE with code prompts.[Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines](https://arxiv.org/abs/2502.16377).
+
+<div class="news-container">
+
+- **[Feb. 2025]** Check out our new preprint on instruction tuning LLMs (LLaMA family) for EE with code prompts. [Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines](https://arxiv.org/abs/2502.16377).
 - **[Sep. 2024]** I will intern at Adobe with Yunyao Li next summer. So excited to work with one of the distinguished ACM fellows. Thank you to other offers from Apple, Microsoft, Amazon, and Salesforce 🙏. 
 - **[Aug. 2024]** Successfully finished my Applied Science internship at Amazon with the final model deployed in production to catch text obfuscation by malicious sellers 🎉. Thanks to my manager Xiaonan and mentor Yuanzhe for help and support.
 - **[Jul. 2024]** I will be attending ACL 2024 in person.
-- **[May. 2024]** Our paper [Instances Need More Care: Rewriting Prompts for Instances with LLMs in the Loop Yields Better Zero-Shot Performance
-](https://arxiv.org/abs/2310.02107) has been accepted at ACL Findings 2024.
+- **[May. 2024]** Our paper [Instances Need More Care: Rewriting Prompts for Instances with LLMs in the Loop Yields Better Zero-Shot Performance](https://arxiv.org/abs/2310.02107) has been accepted at ACL Findings 2024.
 - **[May. 2024]** I will be interning at Amazon this summer in Seattle as an Applied Research Science Intern. Looking forward to eliciting safe responses from LLMs.
 - **[Apr. 2024]** I successfully passed my comprehensive exam. Thanks to all the committee members for the fruitful discussion.
 - **[Mar. 2024]** Check out our new preprint on [Prompt optimization for zero-shot LLMs ](https://arxiv.org/pdf/2310.02107.pdf)
@@ -41,6 +43,9 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **[Jul. 2020]** Attended [IJCNN'20](https://ieeexplore.ieee.org/xpl/conhome/9200848/proceeding) virtually!
 - **[Jul. 2019]** Attended [ACL'19 in](https://acl2019.org/EN/index.xhtml.html) person!
 - **[Jul. 2019]** Attended [IJCNN'19 in](https://ieeexplore.ieee.org/xpl/conhome/8840768/proceeding) person!
+
+</div>
+
 
 {% include_relative _includes/publications.md %}
 
