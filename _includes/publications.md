@@ -181,6 +181,23 @@
     </div>
   </div>
 </li>
+
+
+
+<li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="#">Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing</a></div>
+    <div class="author">Hao Yan, <strong>Saurabh Srivastava}</strong>, Yintao Tai, Sida Wang, Scott Yih, Ziyu Yao</div>
+    <div class="periodical"><em><strong>MASC-2023</strong>.</em></div>
+    <div class="links">
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</li>
+
+
+
+
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://aclanthology.org/2021.eacl-main.300/">Complex Question Answering on knowledge graphs using machine translation and multi-task learning</a></div>
