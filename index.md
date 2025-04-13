@@ -21,6 +21,8 @@ In my free time, I make music for violin and piano. I enjoy the outdoors, partic
 - **Machine Learning:** Continual Learning
 
 ## News
+- **[Feb. 2025]** Check out our new preprint with a first dive on prompt optimization with LRMs like DeepSeek-R1 and o1: [Revisiting Prompt Optimization with Large Reasoning
+Models—A Case Study on Event Extraction](https://arxiv.org/pdf/2504.07357).
 - **[Apr. 2025]** My submission to Doctoral Forum at SIAM SDM 2025 got accepted for a poster presentation. Thanks to my advisor Prof. Yao for the support and recommendation 🙏. 
 - **[Apr. 2025]** Our paper *Compositional Image-Text Matching and Retrieval by Grounding Entities* is accepted at CVPR-W 2025. Congratulations to all my collaborators 🎉. 
 - **[Mar. 2025]** Our paper *Real-Time Performance Benchmarking of TinyML Models in Embedded Systems* is accepted at ISORC 2025. Thanks to all the collaborators for the opportunity.
