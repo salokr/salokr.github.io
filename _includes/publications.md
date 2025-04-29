@@ -80,6 +80,19 @@
 
   <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs</a></div>
+    <div class="author">Abhishek Dey, <strong>Saurabh Srivastava</strong>, Gaurav Singh</div>
+    <div class="periodical"><em><strong>IMDB</strong>, 2025</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+  </li>
+
+  
+
+  <li>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Real-Time Performance Benchmarking of TinyML Models in Embedded Systems</a></div>
     <div class="author">Abhishek Dey, <strong>Saurabh Srivastava</strong>, Gaurav Singh, Robert G. Pettit</div>
     <div class="periodical"><em><strong>ISORC</strong>, 2025</em></div>
