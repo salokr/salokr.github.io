@@ -21,11 +21,11 @@ In my free time, I make violin and piano music. I enjoy the outdoors, particular
 - **Machine Learning:** Continual Learning
 
 ## News
-- **[Apr. 2025]** My submission on Multimodal Event Detection has been accepted at NLDB-2025 hosted in Kanazawa, Japan.
 - **[Apr. 2025]** Check out our new preprint with a first dive on prompt optimization with LRMs like DeepSeek-R1 and o1: [Revisiting Prompt Optimization with Large Reasoning
 Models—A Case Study on Event Extraction](https://arxiv.org/pdf/2504.07357).
-- **[Apr. 2025]** My submission to the Doctoral Forum at SIAM SDM 2025 got accepted for a poster presentation. Thanks to my advisor Prof. Yao for the support and recommendation 🙏. 
-- **[Apr. 2025]** Our paper *Compositional Image-Text Matching and Retrieval by Grounding Entities* is accepted at CVPR-W 2025. Congratulations to all my collaborators 🎉. 
+- **[Apr. 2025]** My submission to the Doctoral Forum at SIAM SDM 2025 got accepted for a poster presentation. Thanks to my advisor, Prof. Yao, for the support and recommendation 🙏. 
+- **[Apr. 2025]** Our paper *Compositional Image-Text Matching and Retrieval by Grounding Entities* is accepted at CVPR-W 2025. Congratulations to all my collaborators 🎉.
+- **[Apr. 2025]** Our submission on Multimodal Event Detection has been accepted at NLDB-2025.
 - **[Mar. 2025]** Our paper *Real-Time Performance Benchmarking of TinyML Models in Embedded Systems* is accepted at ISORC 2025. Thanks to all the collaborators for the opportunity🎉.
 - **[Feb. 2025]** Check out our new preprint on instruction tuning LLMs (LLaMA family) for EE with code prompts.[Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines](https://arxiv.org/abs/2502.16377).
 - **[Sep. 2024]** 🎉 I will intern at Adobe with Yunyao Li next summer. Thank you to other offers from Apple 🍎, Microsoft 💻, Amazon 📦, and Salesforce ☁️ 🙏.
