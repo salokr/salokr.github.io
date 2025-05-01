@@ -79,13 +79,23 @@
 
 
   <li>
+  <div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nldb.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NLDB</abbr>
+  </div>
+
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs</a></div>
-    <div class="author">Abhishek Dey, <strong>Saurabh Srivastava</strong>, Gaurav Singh</div>
-    <div class="periodical"><em><strong>IMDB</strong>, 2025</em></div>
+    <div class="title"><a href="">Multimodal Event Detection: Current Approaches and Defining the New Playground through LLMs and VLMs
+</a></div>
+    <div class="author">Abhishek Dey, Gaurav Singh, <strong>Saurabh Srivastava</strong></div>
+    <div class="periodical"><em><strong>NLDB</strong>, 2025.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
+  </div>
   </div>
   </li>
 
@@ -188,7 +198,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2305.13469">Event Extraction on Email Conversations</a></div>
     <div class="author"><strong>Saurabh Srivastava</strong>, Ziyu Yao</div>
-    <div class="periodical"><em><strong>MASC-2023</strong>.</em></div>
+    <div class="periodical"><em><strong>MASC-2023</strong></em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2305.13469" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -200,7 +210,7 @@
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="#">Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing</a></div>
-    <div class="author">Hao Yan, <strong>Saurabh Srivastava}</strong>, Yintao Tai, Sida Wang, Scott Yih, Ziyu Yao</div>
+    <div class="author">Hao Yan, <strong>Saurabh Srivastava</strong>, Yintao Tai, Sida Wang, Scott Yih, Ziyu Yao</div>
     <div class="periodical"><em><strong>MASC-2023</strong>.</em></div>
     <div class="links">
       <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
