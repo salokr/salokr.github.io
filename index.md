@@ -25,10 +25,10 @@ In my free time, I make violin and piano music. I enjoy the outdoors, particular
 Models—A Case Study on Event Extraction](https://arxiv.org/pdf/2504.07357).
 - **[Apr. 2025]** My submission to the Doctoral Forum at SIAM SDM 2025 got accepted for a poster presentation. Thanks to my advisor, Prof. Yao, for the support and recommendation 🙏. 
 - **[Apr. 2025]** Our paper *Compositional Image-Text Matching and Retrieval by Grounding Entities* is accepted at CVPR-W 2025. Congratulations to all my collaborators 🎉.
-- **[Apr. 2025]** Our submission on Multimodal Event Detection has been accepted at NLDB-2025.
+- **[Apr. 2025]** Our submission on Multimodal Event Detection has been accepted at NLDB-2025 🎉.
 - **[Mar. 2025]** Our paper *Real-Time Performance Benchmarking of TinyML Models in Embedded Systems* is accepted at ISORC 2025. Thanks to all the collaborators for the opportunity🎉.
 - **[Feb. 2025]** Check out our new preprint on instruction tuning LLMs (LLaMA family) for EE with code prompts.[Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines](https://arxiv.org/abs/2502.16377).
-- **[Sep. 2024]** 🎉 I will intern at Adobe with Yunyao Li next summer. Thank you to other offers from Apple 🍎, Microsoft 💻, Amazon 📦, and Salesforce ☁️ 🙏.
+- **[Sep. 2024]** 🎉 I will intern at Adobe with Yunyao Li next summer. So excited to work with one of the distinguished ACM fellows. Thank you to other offers from Apple 🍎, Microsoft 💻, Amazon 📦, and Salesforce ☁️ 🙏.
 - **[Aug. 2024]** Successfully finished my Applied Science internship at Amazon with the final model deployed in production to catch text obfuscation by malicious sellers 🎉. Thanks to my manager Xiaonan and mentor Yuanzhe for help and support.
 - **[Jul. 2024]** I will be attending ACL 2024 in person.
 - **[May. 2024]** Our paper [Instances Need More Care: Rewriting Prompts for Instances with LLMs in the Loop Yields Better Zero-Shot Performance
