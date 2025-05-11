@@ -21,6 +21,7 @@ In my free time, I make violin and piano music. I enjoy the outdoors, particular
 - **Machine Learning:** Continual Learning
 
 ## News
+- **[May 2025]** I was awarded the **Outstanding GTA award** 🎉 Thanks to my advisor, Prof. Yao, for the support and recommendation 🙏.
 - **[Apr. 2025]** Check out our new preprint with a first dive on prompt optimization with LRMs like DeepSeek-R1 and o1: [Revisiting Prompt Optimization with Large Reasoning
 Models—A Case Study on Event Extraction](https://arxiv.org/pdf/2504.07357).
 - **[Apr. 2025]** My submission to the Doctoral Forum at SIAM SDM 2025 got accepted for a poster presentation. Thanks to my advisor, Prof. Yao, for the support and recommendation 🙏. 
