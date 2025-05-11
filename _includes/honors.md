@@ -2,6 +2,7 @@
 
 
 <ul style="margin:0 0 0px;">
+  <li>Outstanding GTA Award 2025  - George Mason University </li>
   <li>Awarded with GSTF funds to attend ACL 2024, Thailand  - George Mason University </li>
   <li>Awarded with GSTF funds to attend EMNLP 2023, Singapore  - George Mason University </li>
   <li>Best Machine Learning Hack - University Of Maryland, College Park </li>
