@@ -8,6 +8,7 @@
 <h4 style="margin:0 10px 0;">Program Committee Member</h4>
 <ul style="margin:0 0 5px;">
  <li><a href="https://2024.aclweb.org/"><autocolor>ACL ARR 2025 - The 63rd Annual Meeting of the Association for Computational Linguistics</autocolor></a></li>
+ <li><a href="https://aaai.org/aaai-conference/"><autocolor>AAAI 2025 - The 39th Annual AAAI Conference on Artificial Intelligence</autocolor></a></li>
  <li><a href="https://2024.aclweb.org/"><autocolor>ACL ARR 2024 - The 62nd Annual Meeting of the Association for Computational Linguistics</autocolor></a></li>
  <li><a href="https://aaai.org/aaai-conference/"><autocolor>AAAI 2024 - The 38th Annual AAAI Conference on Artificial Intelligence</autocolor></a></li>
  <li><a href="https://2023.emnlp.org/calls/industry_track/"><autocolor>EMNLP 2023 - The 2023 Conference on Empirical Methods in Natural Language Processing (Industry Track)</autocolor></a></li>
