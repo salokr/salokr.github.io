@@ -6,6 +6,29 @@
 
 
 
+<li>
+  <div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/colm.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Adobe</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="#">Unified Plan Verification with Static Rubrics and Dynamic Policies for Reliable LLM Planning
+</a></div>
+    <div class="author"><strong>Saurabh Srivastava</strong>, Shun Jiang, Prathusha Kameswara Sarma, Daniel Lee, Guang-Jie Ren, Ziyu Yao, Yunyao Li </div>
+    <div class="periodical"><em><strong>Adobe</strong>, 2025.</em></div>
+    <div class="links">
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+  </div>
+  </li>
+
+  
+
 
 
 <li>
@@ -36,7 +59,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ee_new.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ArXiv</abbr>
+    <abbr class="badge">ACL '25</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
