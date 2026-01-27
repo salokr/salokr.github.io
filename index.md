@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Hi there!
-I am a fourth-year PhD student in the Natural Language Processing group at George Mason University; advised by Dr. [Ziyu Yao](https://ziyuyao.org/). 
+I am a final-term PhD student in the Natural Language Processing group at George Mason University, advised by Dr. [Ziyu Yao](https://ziyuyao.org/). 
 
 My research revolves around the field of Information Extraction and Generative AI, where I delve into extracting event-specific information from a wide array of sources, including emails, sentences, and documents. My ultimate goal is to contribute to the development of a versatile machine learning system capable of retrieving event-specific details from unstructured text and presenting them in a structured format, facilitating seamless further processing.
 
@@ -21,6 +21,11 @@ In my free time, I make violin and piano music. I enjoy the outdoors, particular
 - **Machine Learning:** Continual Learning
 
 ## News
+- **[Nov. 2025]** There’s an exciting update waiting until graduation. For now, I’m focused on wrapping up my PhD.
+- **[Nov. 2025]** Successfully defended my PhD proposal defense. Thanks to all the committee members and Prof. Yao for their positive response, kind words, and encouragement.
+- **[Aug. 2025]** Finished my internship at Adobe. We built an evaluation protocol for agent-based solutions in NLP. I'm looking forward to our paper being accepted 🤞.
+- **[July 2025]** Our paper "Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines" has been accepted at ACL-2025. Congratulations to Sweta and Professor Yao.
+- **[May 2025]** Began my internship at Adobe with Yunyao Li. Excited to work on agentic AI and its application to NLP.
 - **[May 2025]** I was awarded the **Outstanding GTA award** 🎉 Thanks to my advisor, Prof. Yao, for the support and recommendation 🙏.
 - **[Apr. 2025]** Check out our new preprint with a first dive on prompt optimization with LRMs like DeepSeek-R1 and o1: [Revisiting Prompt Optimization with Large Reasoning
 Models—A Case Study on Event Extraction](https://arxiv.org/pdf/2504.07357).
