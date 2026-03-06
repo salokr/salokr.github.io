@@ -21,6 +21,7 @@ In my free time, I make violin and piano music. I enjoy the outdoors, particular
 - **Machine Learning:** Continual Learning
 
 ## News
+- **[Mar. 2026]** Our paper "Reasoning Under Constraint: How Batch Prompting Suppresses Overthinking in Reasoning Models" has been accepted at the **ICLR 2026** workshop on Logical Reasoning 🎉🥳. Congrats to everyone!
 - **[Nov. 2025]** There’s an exciting update waiting until graduation🎉🥳. For now, I’m focused on wrapping up my PhD.
 - **[Nov. 2025]** Successfully defended my PhD proposal defense. Thanks to all the committee members and Prof. Yao for their positive response, kind words, and encouragement🙏🎉.
 - **[Aug. 2025]** Finished my internship at Adobe. We built an evaluation protocol for agent-based solutions in NLP. I'm looking forward to our paper being accepted 🤞.
