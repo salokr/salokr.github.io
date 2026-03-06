@@ -58,6 +58,29 @@
   <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ICLR_W_2026.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Adobe</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2511.04108">REASONING UNDER CONSTRAINT: HOW BATCH PROMPTING SUPPRESSES OVERTHINKING IN REASONING MODELS
+</a></div>
+    <div class="author"><strong>Saurabh Srivastava</strong>, Janit Bidhan, Hao Yan, Abhishek Dey, Tanu Kansal, Paras Kath, Sina Mansouri, Mohit Marvania, Vamsi Shankar Simhadri, Gaurav Singh </div>
+    <div class="periodical"><em><strong>ICLR-W 2026</strong>, 2026</em></div>
+    <div class="links">
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+  </div>
+  </li>
+
+
+
+<li>
+  <div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ee_new.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACL '25</abbr>
   </div>
